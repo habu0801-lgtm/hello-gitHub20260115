@@ -1,2 +1,4 @@
 # hello-gitHub20260115
-Hub Hub
+福岡に帰省
+美味しいものたくさん食べた
+gitHub×Cursorで手こずっている
